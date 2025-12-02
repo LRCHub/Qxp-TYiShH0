@@ -1,57 +1,40 @@
-# 藤井 風 – Prema
+# Vishal Chandrashekhar, Kapil Kapilan, Chinmayi Sripada – Oh Prema
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Prema
-Don't u know that u are love itself
-You are love itself
-Prema
-Can't u see that u are god itself
-You are god itself
-I don't lie
-I'm all about the truth and
-I don't hide
-Overwhelmingly I'm open
-I survived
-All the crazy things you gave
-n every mess that was ever made
-You are mine
-I call your name and you will
-Be on time
-Living in this small world and its
-Future's bright
-Brighter than my ceiling lights
-n sweeter than my mother's cream pie
-Follow my tender heart and I'll win
-No matter what pain I am in
-With all your blessings I'll arise
-Open up my third eye
-Prema
-Don't u know that u are love itself
-You are love itself
-Prema
-Can't u see that u are god itself
-You are god itself
-Finalized
-We got each other always
-Fantasized
-Surely knew we could do it
-I decide
-Every day I meditate
-And make every action a prayer
-Filling my heart with your affection
-Being your best friend is my devotion
-Calling your name is my surrender
-Babe, I got your number
-Filling my heart with your affection
-Being your best friend is my devotion
-Calling your name is my surrender
-Babe, I got your number
-Prema
-Don't u know that I am love itself
-I am love itself
-Prema
-Can't u see that I am god itself
-I am god itself
+```lrc
+[00:12.87] వస్తా నే వెంటనే
+[00:18.95] ఉంటా నీవెంటనే
+[00:25.45] 
+[00:25.84] ముద్దంటిన చెంపపై
+[00:29.31] తడి ఆరనేలేదులే
+[00:32.55] మాటొకటి చెప్పేంతలో
+[00:35.91] పయనాలు మొదలాయెనే
+[00:43.91] 
+[00:39.18] ఓ ప్రేమా (ఓ ప్రేమా)
+[00:45.76] అవసరమా (అవసరమా)
+[00:52.18] మాయే నీ (మాయే నీ)
+[00:58.74] చిరునామా (చిరునామా)
+[01:08.24] 
+[01:05.68] మనసంతా నీవే ప్రియా
+[01:09.22] విరహాన్ని చంపేదెలా
+[01:12.95] అంతరిక్షం అంచుదాక ప్రేమే తాకిందిగా
+[01:19.07] నీతో జ్ఞాపకాలే ఈ మంచులా అవి కరగవే
+[01:25.61] ఈ నీ పరిమళాలు గుండెలో నిండెలే
+[01:40.11] 
+[01:31.85] ఓ ప్రేమా (ఓ ప్రేమా)
+[01:38.35] అవసరమా (అవసరమా)
+[01:45.03] మాయే నీ (మాయే నీ)
+[01:51.78] చిరునామా (చిరునామా)
+[02:01.28] 
+[02:25.24] ఇటు చూడవా ప్రియతమా
+[02:28.59] ఎడబాటు అనుకోకుమా
+[02:32.32] కాలికిందే చిక్కుకుంది చూడు నా ప్రాణమే
+[02:38.45] దూరం ఆవిరాయే నీ వెచ్చని నిశ్వాసలో
+[02:45.18] నిదురే చెదిరేలోపే తిరిగిరా స్వప్నమా
+[03:02.68] 
+[02:51.45] ఓ ప్రేమా (ఓ ప్రేమా)
+[02:57.83] అవసరమా (అవసరమా)
+[03:04.33] మాయే నీ (మాయే నీ)
+[03:11.28] చిరునామా (చిరునామా)
 ```
